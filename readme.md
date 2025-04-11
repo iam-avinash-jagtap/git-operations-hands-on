@@ -27,7 +27,7 @@ _To initilize the git repository on your local machine you need to follow some s
        code .
 ##### Now you initalized a Git repository in the project directory and redirect on VS code 
 # Step 2:- Create home page for the project
-_Now you are in VScode, create home page of prject in master/main branch._
+_Now you are in VScode, create home page of project in master/main branch._
 1. Click on - New file 
 2. Enter name - index.html
 3. Enter HTML Script - 
