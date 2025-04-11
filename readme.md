@@ -94,6 +94,9 @@ _Now you are in VScode, create home page of prject in master/main branch._
             git commit -m "Added index.html file"
 
             git status -s 
+
+![Home](https://github.com/iam-avinash-jagtap/git-operations-hands-on/blob/master/Images/Home.png)
+
 #### You are created home page for your project in master branch
 # Step 3:- Create Feature branches & pages respectively.
 ### Creating 1st feature branch - mobile 
@@ -175,6 +178,9 @@ _Now create mobile branch for add mobile.html page in your project._
         git checkout master
 
         git merge mobile
+
+![Mobile](https://github.com/iam-avinash-jagtap/git-operations-hands-on/blob/master/Images/Mobile.png)
+
 #### Your Mobile page is ready using feature branch - Mobile
 ### Creating 2nd feature branch - laptop 
 _Now create laptop branch for add laptop.html page in your project._
@@ -254,6 +260,9 @@ _Now create laptop branch for add laptop.html page in your project._
         git checkout master
 
         git merge laptop
+
+![Laptop](https://github.com/iam-avinash-jagtap/git-operations-hands-on/blob/master/Images/Laptop.png)
+
 #### Your Laptop page is ready using feature branch - Laptop
 ### Creating 3rd feature branch - bike 
 _Now create bike branch for add bike.html page in your project._
@@ -333,6 +342,9 @@ _Now create bike branch for add bike.html page in your project._
         git checkout master
 
         git merge laptop
+
+![Bike](https://github.com/iam-avinash-jagtap/git-operations-hands-on/blob/master/Images/Bike.png)
+
 #### Your Bike page is ready using feature branch - Bike
 ### Creating 4th feature branch - car 
 _Now create car branch for add car.html page in your project._
@@ -412,6 +424,9 @@ _Now create car branch for add car.html page in your project._
         git checkout master
 
         git merge car
+
+![Car](https://github.com/iam-avinash-jagtap/git-operations-hands-on/blob/master/Images/Car.png)
+
 #### Your Car page is ready using feature branch - Car
 # Step 4:- Create and Resolve - Git code conflict.
 _Now you are going to create and resolve Git code conflict issue._
@@ -620,6 +635,10 @@ _Now create contact-us branch for add contact-us.html page in your project._
             // incoming branch changes
             >>>>>>> branch-name
     _Note:- Remove conflict text and resolve Conflict._
+
+![About-us](https://github.com/iam-avinash-jagtap/git-operations-hands-on/blob/master/Images/About-us.png)
+
+![Contact-us](https://github.com/iam-avinash-jagtap/git-operations-hands-on/blob/master/Images/Contact-us.png)
 
 #### Your About Us and Contact Us pages are ready using their respective branches. 
 # Step 5:- Delete Feature branches 
