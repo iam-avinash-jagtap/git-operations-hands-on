@@ -76,6 +76,11 @@ _Now you are in VScode, create home page of project in master/main branch._
     <button class="nav-btn" onclick="location.href='laptop.html'">💻 Laptop</button>
     <button class="nav-btn" onclick="location.href='bike.html'">🏍️ Bike</button>
     <button class="nav-btn" onclick="location.href='car.html'">🚗 Car</button>
+    
+  </div>
+    <div class="bottom-links">
+    <a href="about-us.html">About Us</a>
+    <a href="contact-us.html">Contact Us</a>
   </div>
 
 </body>
